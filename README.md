@@ -1,3 +1,4 @@
 # Hotel
 C# Desktop
-Video Link: <a href="https://drive.google.com/drive/folders/1ruPS70QmbkVo47twfEF-Btm_6iBY_eJi?usp=sharing">Video<a>
+Video Link: <a href="https://drive.google.com/file/d/1T_a8CRRn28jLB4co7ezM1ktk6FVVl7NW/view?usp=sharing" target="_blank">Open in new tab</a>
+
